@@ -1,16 +1,25 @@
-# musicapp
+# Music App
 
-A new Flutter project.
+This application is a small demo of how audio player work. It can play or pause the song.
 
-## Getting Started
+## Pages
 
-This project is a starting point for a Flutter application.
+It has one page only:
+   1. Audio Player page
+  
+## Packages Used:
+  
+  1.audioplayers
+  2.just_audio
+  
+## Features:
 
-A few resources to get you started if this is your first Flutter project:
+  1. User can Play or Pause the Song.
+ 
+## Videos
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+https://user-images.githubusercontent.com/100132569/160402597-3d35979e-52c1-4e05-8083-d3424484ba3e.mp4
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
