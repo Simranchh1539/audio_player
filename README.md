@@ -5,7 +5,7 @@ This application is a small demo of how audio player work. It can play or pause 
 ## Pages
 
 It has one page only:
-   1. Audio Player page
+  1. Audio Player page
   
 ## Packages Used:
   
